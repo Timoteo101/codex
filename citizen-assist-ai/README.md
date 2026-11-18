@@ -72,7 +72,7 @@ Conferidas em **16/11/2026**, com revisão de registros específicos em **17/11/
 - [Governo de Minas Gerais: consultar recall](https://www.mg.gov.br/servico/verificar-situacao-de-recall-do-veiculo)
 - [Gov.br: credencial digital de estacionamento](https://www.gov.br/pt-br/servicos/emitir-credencial-de-estacionamento-digital)
 - [Gov.br: Passe Livre Interestadual](https://www.gov.br/pt-br/servicos/obter-passe-livre-interestadual-digital)
-- [MDS: Carteira da Pessoa Idosa](https://www.gov.br/mds/pt-br/acoes-e-programas/suas/servicos-e-programas/carteira-da-pessoa-idosa)
+- [Gov.br: Carteira da Pessoa Idosa](https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso)
 - [Secretaria-Geral: carta de serviços, ID Jovem](https://www.gov.br/secretariageral/pt-br/acesso-a-informacao/acoes-e-programas/carta-de-servicos/carta-de-servicos-sgpr-20230929.pdf)
 
 As fontes podem mudar; confirme regras, documentos e disponibilidade no órgão responsável antes de tomar uma decisão. Este projeto **não é canal oficial**, não executa serviços, não acessa dados governamentais e não usa IA generativa. Seu filtro de dados pessoais é limitado. A busca pode produzir correspondências inadequadas ou não reconhecer sinônimos; confiança alta não garante que a resposta seja correta. Regras locais podem variar.

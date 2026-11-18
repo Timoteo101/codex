@@ -179,10 +179,11 @@
     ],
     "resposta": "A carteira é uma das formas de comprovar renda para acessar benefícios no transporte interestadual. Para o direito, a página oficial informa idade a partir de 60 anos e renda individual de até dois salários mínimos. Consulte a emissão no sistema oficial ou procure o CRAS.",
     "documentos": [
-      "Documento de identificação e inscrição no CadÚnico; confirme os requisitos no CRAS ou no sistema oficial"
+      "NIS e inscrição no CadÚnico atualizada; para emissão online, conta gov.br",
+      "Confirme os requisitos de identificação no CRAS ou no sistema oficial"
     ],
     "onde": "Sistema da Carteira da Pessoa Idosa ou CRAS",
-    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/suas/servicos-e-programas/carteira-da-pessoa-idosa",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
     "verificado_em": "2026-11-17"
   },
   {
