@@ -84,4 +84,3 @@ A temática de mobilidade conversa com o projeto de simulação de fluxo de trâ
 ## Vídeo técnico
 
 Link do YouTube não listado: **[preencher após a gravação]**. A equipe deve gravar com suas próprias vozes, explicar o código e mostrar todos os requisitos. Consulte `ROTEIRO_VIDEO.md` para uma sequência de 5 a 8 minutos.
-
